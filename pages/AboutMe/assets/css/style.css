@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.header, .header *{
+    outline: 1px dotted white;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px green solid;
+
+    background-color: black;
+    padding-bottom: .5rem;
+    margin: 1rem 5rem;
+}
+
+.nav{
+    display: flex;
+    gap: 5.5rem;
+}
+
+.logo{
+    width:10rem;
+    aspect-ratio: 0;
+}
+
+/*guide lines*/
+.hero, .hero *{
+    outline: green dotted 1px;
+}
