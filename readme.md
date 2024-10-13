@@ -60,10 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project: To create a resume/portfolio about yourself
+- Whats the purpose: to showcase your work to the public and to attract clients
+- What are key components: education, about me, 
+- What technology used and how it is used: html and css
 
 ### Key Components
 <!-- TODO: List of Key Components -->
