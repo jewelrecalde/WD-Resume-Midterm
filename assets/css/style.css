@@ -9,9 +9,11 @@ a{
 }
 
 body{
-    background-image: url(/assets/images/bg.jpg);
+    background-image: url(/assets/images/home.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
+
+    
 }
 .header, .header *{
     outline: 1px dotted white;
@@ -30,6 +32,31 @@ body{
     padding-right: .7rem;
 }
 
+.content{
+    margin-top: 20%;
+    max-width: 900em;
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content h3{
+    font-size: 6em;
+    font-weight: 800;
+    letter-spacing: -4px;
+    color: white;
+    text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.5); 
+}
+
+.content p{
+    margin-top: 1%;
+    font-size: 2em;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: yellow;
+    text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.5);
+
+}
+
 .nav{
     display: flex;
     gap: 5.5rem;
@@ -40,30 +67,20 @@ body{
     aspect-ratio: 0;
 }
 
-.hero{
-    margin: 6rem 5rem;
-    display: flex;
-
-    .left{
-        width: 20%;
-
-    .right{
-        width: 80;
-    }
-    h2 {
-        font-size: 3rem;
-        width: 70%;
-        word-spacing: .5rem;
-        letter-spacing: .3rem;
-        padding: 5rem 0 2rem;
-        outline: 3px violet solid;
-        margin: 5rem;
-    }
-    .seperator {
-        margin: 5rem 0;
-    }
-    }
-}
+* {
+    /* Layout Declarations */
+      box-sizing: border-box;
+  }
+  
+  .heading{
+      /* Typography Declarations */
+      color: #222222;
+      font-size: 1em;
+     font-family: "Open Sans", "Helvetica Neue", sans-serif;
+     padding-left: 2em;
+     padding-right: 2em;
+ }
+   
 /*guide lines*/
 .hero, .hero *{
     outline: green dotted 1px;
