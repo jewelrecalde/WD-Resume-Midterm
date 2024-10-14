@@ -50,7 +50,7 @@ body{
     height: auto;
     width: 400px;
     border-radius: 40%;
-    padding-top: 10em;
+    padding-top: 7em;
 }
 
 .about-text{
@@ -71,7 +71,7 @@ body{
 
 .about-text h1{
     color:black;
-    font-size: 80px;
+    font-size: 50px;
     margin-bottom: 20px;
 }
 
@@ -88,6 +88,7 @@ body{
     line-height: 28px;
     font-size: 18px;
     margin-bottom: 45px;
+    padding-left: 1em;
 }
 
 button{
@@ -100,3 +101,47 @@ button{
     border-radius: 30px;
     ;
 }
+
+.interests h3{
+    background: none;
+    padding-right: 3em;
+    margin-left: -20px;
+    font-size: 25px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+
+
+}
+.interests {
+    margin: 15px 0 0;
+    padding: 15px;
+  }
+
+
+.interests-items {
+    box-sizing: border-box;
+    padding: 0 0 15px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  .interests-items div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding-bottom: 30px;
+
+  }
+  
+  .interests-items i{
+    height: 50px;
+    font-size: 40px;
+    padding-top: -9%;
+  }
