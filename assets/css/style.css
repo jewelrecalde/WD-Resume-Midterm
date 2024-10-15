@@ -81,7 +81,12 @@ body{
      padding-right: 2em;
  }
    
+
+
+
 /*guide lines*/
 .hero, .hero *{
     outline: green dotted 1px;
 }
+
+
