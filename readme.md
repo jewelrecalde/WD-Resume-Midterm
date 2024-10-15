@@ -118,3 +118,12 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+add here the YT LINKS I USED
+homepage layout | https://www.youtube.com/watch?v=yU_JgeAIRko&t=520s
+about me page | https://www.youtube.com/watch?v=K_64Xmm3OcA&t=83s
+about me icons | https://codepen.io/astronaomical/pen/KexYgb
+education (two column) | https://www.youtube.com/watch?v=Md6SxPVKknU&t=405s
+top projects (image grid) | https://youtu.be/3TN9J3pCn6k?si=aGZ8j-6rtukH8OZa
+ongoing projects (image grid) | https://youtu.be/3TN9J3pCn6k?si=aGZ8j-6rtukH8OZa
+header | From Lab Sample Class
