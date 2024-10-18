@@ -1,0 +1,141 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+body{
+    background-image: url('https://www.wikihow.com/images/a/a7/See-Street-View-on-Google-Maps-on-Android-Step-7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: black;
+    padding-bottom: .5rem;
+    margin: 0rem 0rem;
+    padding-left: .7rem;
+    padding-right: .7rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav{
+    display: flex;
+    gap: 5.5rem;
+}
+
+.logo{
+    width:10rem;
+    aspect-ratio: 0;
+}
+
+body{
+    background-image: url('/pages/AboutMe/assets/images/bg.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.about{
+    width: 100%;
+    padding: 30px 0px;
+}
+
+.about img{
+    max-width: 100%;
+    height: auto;
+    width: 400px;
+    padding-top: 5em;
+}
+
+.about-text{
+    width: 550px;
+    padding-top: 8em;
+
+}
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1130px;
+    max-width: 95%;
+    margin: 0em auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text h1{
+    color:black;
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-left: -5px;
+
+}
+
+.about-text h5{
+    color:black;
+    font-size: 25px;
+    margin-left: -5px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.about-text p{
+    color: black;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+    padding-left: 1em;
+}
+
+.skills h3{
+    background: none;
+    padding-right: 3em;
+    margin-left: -20px;
+    font-size: 25px;
+    margin-bottom: 21px;
+    letter-spacing: 1px;
+
+
+}
+.skills {
+    margin: 15px 0 0;
+    padding: 15px;
+  }
+
+
+.skills-items {
+    box-sizing: border-box;
+    padding: 0 0 15px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.skills-items div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding-bottom: 30px;
+
+}
+  
+.skills-items i{
+    height: 50px;
+    font-size: 40px;
+    padding-top: -9%;
+}
