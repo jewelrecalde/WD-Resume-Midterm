@@ -31,22 +31,26 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+   <li>
+      <a href="#Home">Home</a>
+    </li>
+  </ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#AboutMe">About Me</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#Education">Education</a>
         </li>
         <li>
-          <a href="#technology">Technology</a>
+          <a href="#Projects">Projects</a>
         </li>
       </ol>
     </li>
     <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
+      <a href="#OngoingWorks">Ongoing Works</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#CheckMySocials">Check My Socials</a>
     </li>
   </ol>
 </details>
@@ -76,7 +80,6 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -116,14 +119,15 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 
-add here the YT LINKS I USED
-homepage layout | https://www.youtube.com/watch?v=yU_JgeAIRko&t=520s
-about me page | https://www.youtube.com/watch?v=K_64Xmm3OcA&t=83s
-about me icons | https://codepen.io/astronaomical/pen/KexYgb
-education (two column) | https://www.youtube.com/watch?v=Md6SxPVKknU&t=405s
-top projects (image grid) | https://youtu.be/3TN9J3pCn6k?si=aGZ8j-6rtukH8OZa
-ongoing projects (image grid) | https://youtu.be/3TN9J3pCn6k?si=aGZ8j-6rtukH8OZa
-header | From Lab Sample Class
+Header layout | To easily navigate information related to my portfolio easily | Web Design Laboratory Activity
+
+Home page layout | I wanted to align my text to the center left while having a shadow to make the text pop out |https://www.youtube.com/watch?v=yU_JgeAIRko&t=520s
+
+About me Page | To be able to place a photo on the left and a text on the right by creating columns |https://www.youtube.com/watch?v=K_64Xmm3OcA&t=83s
+
+About Me Icons |Highlight and put an element on the Software Skills I have on my about me page | https://codepen.io/astronaomical/pen/KexYgb
+
+Education | Create two Columns, rows, and borders to separate the education and internship section |https://www.youtube.com/watch?v=Md6SxPVKknU&t=405s
+
+Top Project & Ongoing Project | to create an image gallery to showcase my projects |https://youtu.be/3TN9J3pCn6k?si=aGZ8j-6rtukH8OZa
