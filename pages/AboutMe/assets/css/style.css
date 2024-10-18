@@ -7,6 +7,13 @@ a{
     text-decoration: none;
     color: aliceblue;
 }
+
+body{
+    background-image: url('https://www.wikihow.com/images/a/a7/See-Street-View-on-Google-Maps-on-Android-Step-7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .header{
     display: flex;
     justify-content: space-between;
