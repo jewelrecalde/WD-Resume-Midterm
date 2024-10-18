@@ -9,8 +9,8 @@ a{
 }
 
 body{
-    background-image: url(/assets/images/home.jpg);
-    background-size: 100%;
+    background-image: url('https://www.wikihow.com/images/a/a7/See-Street-View-on-Google-Maps-on-Android-Step-7.jpg');
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
