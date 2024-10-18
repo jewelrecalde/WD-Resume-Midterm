@@ -66,12 +66,14 @@ body{
     color:black;
     font-size: 50px;
     margin-bottom: 30px;
+    margin-left: -5px;
 
 }
 
 .about-text h5{
     color:black;
     font-size: 25px;
+    margin-left: -5px;
     margin-bottom: 20px;
     letter-spacing: 1px;
 }
@@ -85,7 +87,7 @@ body{
     padding-left: 1em;
 }
 
-.interests h3{
+.skills h3{
     background: none;
     padding-right: 3em;
     margin-left: -20px;
@@ -111,13 +113,6 @@ body{
 
 }
 
-.skills h3{
-    font-size: 25px;
-    margin-bottom: 20px;
-    letter-spacing: 1px;
-
-
-}
 
 .skills-items div {
     display: flex;
@@ -131,7 +126,7 @@ body{
 
 }
   
-  .skills-items i{
+.skills-items i{
     height: 50px;
     font-size: 40px;
     padding-top: -9%;

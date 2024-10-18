@@ -62,12 +62,10 @@ body{
 }
 
 * {
-    /* Layout Declarations */
       box-sizing: border-box;
   }
 
 .heading{
-      /* Typography Declarations */
       color: #222222;
       font-size: 1em;
      font-family: "Open Sans", "Helvetica Neue", sans-serif;
