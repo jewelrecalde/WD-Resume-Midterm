@@ -9,7 +9,7 @@ a{
 }
 
 body{
-    background-image: url('https://mir-s3-cdn-cf.behance.net/f59895b6853f889950a46380a879b3cc/9c9c3e07-0e44-4463-9c22-8f5b8119fc11_rwc_-1x340x1405x246x1405.png?h=e712c53fed6ba49fdc424978385f5232');
+    background-image: url('/assets/images/home.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
