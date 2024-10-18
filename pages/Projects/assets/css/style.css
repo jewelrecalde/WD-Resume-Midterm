@@ -8,15 +8,11 @@ a{
     color: aliceblue;
 }
 
-.header, .header *{
-    outline: 1px dotted white;
-}
 
 .header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 2px green solid;
 
     background-color: black;
     padding-bottom: .5rem;

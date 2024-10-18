@@ -15,15 +15,11 @@ body{
 
     
 }
-.header, .header *{
-    outline: 1px dotted white;
-}
 
 .header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 2px green solid;
 
     background-color: black;
     padding-bottom: .5rem;
@@ -43,18 +39,18 @@ body{
 .content h3{
     font-size: 6em;
     font-weight: 800;
-    letter-spacing: -4px;
+    letter-spacing: 0.10rem;
     color: white;
-    text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.5); 
+    text-shadow: 8px 8px 8px rgba(0, 0, 0, 0.5); 
 }
 
 .content p{
-    margin-top: 1%;
+    margin-top: 0.10rem;
     font-size: 2em;
     font-weight: 600;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.2px;
     color: yellow;
-    text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.5);
+    text-shadow: 8px 8px 8px rgba(0, 0, 0, 0.5);
 
 }
 
@@ -82,12 +78,4 @@ body{
      padding-right: 2em;
  }
    
-
-
-
-/*guide lines*/
-.hero, .hero *{
-    outline: green dotted 1px;
-}
-
 

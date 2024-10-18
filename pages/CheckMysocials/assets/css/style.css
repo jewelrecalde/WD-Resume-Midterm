@@ -8,15 +8,11 @@ a{
     color: aliceblue;
 }
 
-.header, .header *{
-    outline: 1px dotted white;
-}
 
 .header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 2px green solid;
 
     background-color: black;
     padding-bottom: .5rem;
@@ -52,7 +48,7 @@ body{
 .about img{
     height: auto;
     width: 400px;
-    border-radius: 40%;
+
     padding-top: 7em;
 }
 
@@ -74,16 +70,18 @@ body{
 
 .about-text h1{
     color:black;
-    font-size: 50px;
-    margin-bottom: 30px;
+    font-size: 70px;
+    font-weight:bold;
+    margin-bottom: 15px;
+
 
 }
 
 .about-text h5{
     color:black;
-    font-size: 25px;
-    margin-bottom: 20px;
-    letter-spacing: 1px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
 }
 
 .about-text p{
@@ -92,19 +90,10 @@ body{
     line-height: 28px;
     font-size: 18px;
     margin-bottom: 45px;
-    padding-left: 1em;
+    padding-left: -1em;
 }
 
-button{
-    background: yellow;
-    color: black;
-    text-decoration: none;
-    border: 2px solid transparent;
-    font-weight: bold;
-    padding: 13px 30px;
-    border-radius: 30px;
-    ;
-}
+
 
 .interests h3{
     background: none;
@@ -143,8 +132,7 @@ button{
     padding-bottom: 30px;
 
   }
-  
-  .interests-items i{
+.interests-items i{
     height: 50px;
     font-size: 40px;
     padding-top: -9%;
