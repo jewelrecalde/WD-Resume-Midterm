@@ -60,15 +60,15 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project: To create a resume/portfolio about yourself
-- Whats the purpose: to showcase your work to the public and to attract clients
-- What are key components: education, about me, 
-- What technology used and how it is used: html and css
+- What is the project: To create a resume/portfolio about myself as an artist.
+- Whats the purpose: to showcase my work and journey to the public and to attract clientts.
+- What are key components: Homepage, About Me, Education, Projects, Ongoing Project, Check My Socials.
+- What technology used and how it is used: html and css, I used Html for inputting the information that is related to me like my top projects and niche in the creative industry. and i used css to better create a layout and design my website better.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website/Single Page Website: I created a Multipage Website.
 - Parallax transition
 - Transactional
 
